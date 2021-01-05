@@ -5,7 +5,7 @@ day #5 for #300dayscodechallenge
 Hypothesis testing practice
 
 <br><br>
-source & credits:
-https://www.kaggle.com/johnsmith88/heart-disease-dataset
+source & credits:<br>
+https://www.kaggle.com/johnsmith88/heart-disease-dataset<br>
 https://towardsdatascience.com/a-complete-guide-to-hypothesis-testing-for-data-scientists-using-python-69f670e6779e
 
